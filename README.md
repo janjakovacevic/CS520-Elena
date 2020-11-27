@@ -46,7 +46,7 @@ Our web application is a fully functional routing software that allows users to 
     - Boston
 
 ## Set-up instructions:
-  * [Deploy on AWS](https://github.com/mendeleden/CS520-Elena/tree/master/cloud)
-  * [Deploy on local machine](https://github.com/mendeleden/CS520-Elena/tree/master/local)
+  * [Deploy on AWS](https://github.com/janjakovacevic/CS520-Elena/tree/master/cloud)
+  * [Deploy on local machine](https://github.com/janjakovacevic/CS520-Elena/tree/master/local)
   * The only difference between the folders is which url (localhost or aws instance) the frontend will pull data from
 
