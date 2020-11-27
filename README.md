@@ -2,7 +2,7 @@
 
 Project By: Danny Sanatar, Eden Mendel, Janja Kovacevic, Temma Eventov
 
-Our web application is a fully functional routing software that allows users to maximize or minimize elevation gain along a given path. We have implemented a variation of Dijstra’s Shortest Path algorithm to calculate any given route by using elevation gain as weights. Our sophisticated, yet simplistic, UI allows users to quickly input their start and end points with the additional option to maximize or minimize their route. The application quickly calculates the shortest path and renders the route onto a street map using Mapbox’s open source mapping software.
+Our web application is a fully functional routing software that allows users to maximize or minimize elevation gain along a given path. We have implemented a variation of Dijkstra’s Shortest Path algorithm to calculate any given route by using elevation gain as weights. Our sophisticated, yet simplistic, UI allows users to quickly input their start and end points with the additional option to maximize or minimize their route. The application quickly calculates the shortest path and renders the route onto a street map using Mapbox’s open source mapping software.
 
 ## What Makes Our EleNa Special 
 
@@ -10,7 +10,7 @@ Our web application is a fully functional routing software that allows users to 
   - Fast Routing : By elevating Python's global variables and Django capabilities the backend server only needs to load the graph into memory once (slow), but once loaded into memory is able to serve routing requests very quickly.
 
 
-# Technology Stack
+## Technology Stack
 
 **Frontend:**
   * Node.js
